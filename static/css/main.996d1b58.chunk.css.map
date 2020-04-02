@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.css"],"names":[],"mappings":"AAAA,QACI,cAAe,CACf,aAAiB,CACjB,qBAAsB,CACtB,UAAW,CACX,iBAAkB,CAClB,+BACJ","file":"main.996d1b58.chunk.css","sourcesContent":[".header {\r\n    padding: 40px 0;\r\n    color: whitesmoke;\r\n    background-color: navy;\r\n    width: 100%;\r\n    text-align: center;\r\n    border-bottom: 10px solid maroon;\r\n}"]}
